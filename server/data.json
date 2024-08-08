@@ -1,0 +1,114 @@
+[
+  {
+    "id": "17c2f928-7d97-4308-9868-74b9b3d21cab",
+    "name": "Md Arif",
+    "email": "mdarifmw98@gmail.com",
+    "phone": "9019784193",
+    "status": "qualified"
+  },
+  {
+    "id": "396edbc4-0673-4f9a-8238-891a67982254",
+    "name": "Bhaskar",
+    "email": "bhaskar@gmail.com",
+    "phone": "9019283738",
+    "status": "contacted"
+  },
+  {
+    "id": "31570d0c-cbf2-4a4f-b3df-9df4aa89a043",
+    "name": "Monica",
+    "email": "monica@gmail.com",
+    "phone": "9039884989",
+    "status": "contacted"
+  },
+  {
+    "id": "77082ca0-d291-4afe-9745-ee820eb1f01c",
+    "name": "Bala Krishna",
+    "email": "balakrishna@gmail.com",
+    "phone": "8739847098",
+    "status": "qualified"
+  },
+  {
+    "id": "ebb11ddf-9719-462f-aa7a-c52ac91aca72",
+    "name": "Subbarayadu",
+    "email": "subba@gmail.com",
+    "phone": "09876123456",
+    "status": "contacted"
+  },
+  {
+    "id": "61483c55-c87b-4e96-92ad-ab4327841e1d",
+    "name": "Kausha",
+    "email": "kausha@gmail.com",
+    "phone": "9839847896",
+    "status": "qualified"
+  },
+  {
+    "id": "48bcc024-86b4-4baf-9ad3-8fc34a7a9ebf",
+    "name": "Niraj Kumar",
+    "email": "nirajkumarn@gmail.com",
+    "phone": "9876213454",
+    "status": "contacted"
+  },
+  {
+    "id": "3fc14527-74ef-43ca-a407-570aa365ba3a",
+    "name": "Parth Agarwal",
+    "email": "parth@gmail.com",
+    "phone": "9865452356",
+    "status": "new"
+  },
+  {
+    "id": "82c348c7-18a7-470a-bc1b-a62f96ec8b45",
+    "name": "Akash",
+    "email": "akash@gmail.com",
+    "phone": "8955123565",
+    "status": "new"
+  },
+  {
+    "id": "ad3f4869-0250-4cd7-928b-5221f9bcd097",
+    "name": "Ismail",
+    "email": "ismail@gmail.com",
+    "phone": "9019765402",
+    "status": "new"
+  },
+  {
+    "id": "fdbb724b-5a4a-4c06-a8c5-7eea5a4afea1",
+    "name": "jhon",
+    "email": "jhon@gmail.com",
+    "phone": "8973647477",
+    "status": "contacted"
+  },
+  {
+    "id": "0776b918-caea-4a3f-8945-66a527044d15",
+    "name": "Rohit",
+    "email": "rohit@gmail.com",
+    "phone": "09876123456",
+    "status": "new"
+  },
+  {
+    "id": "2d63b1e6-d69c-4da8-96c6-edc7e28a6cac",
+    "name": "test",
+    "email": "test@gmail.com",
+    "phone": "1234567890",
+    "status": "qualified"
+  },
+  {
+    "id": "ac3cd47b-bf27-4c8e-9d7a-5869ac3c8d3b",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "1234567890",
+    "status": "new"
+  },
+  {
+    "id": "4126249a-e848-4494-9b2f-47d2f26ef220",
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "phone": "0987654321",
+    "status": "new"
+  },
+  {
+    "id": "9247b93d-4b0f-4fab-a9d1-729718e4ee92",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "1234567890",
+    "status": "new"
+  }
+]

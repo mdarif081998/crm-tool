@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRM Tool</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>CRM Tool</h1>
+        <div class="lead-form">
+            <h2>Add New Lead</h2>
+            <form id="leadForm">
+                <input type="text" id="name" placeholder="Name" required>
+                <input type="email" id="email" placeholder="Email" required>
+                <input type="tel" id="phone" placeholder="Phone Number" required>
+                <select id="status">
+                    <option value="new">New</option>
+                    <option value="contacted">Contacted</option>
+                    <option value="qualified">Qualified</option>
+                </select>
+                <button type="submit">Add Lead</button>
+            </form>
+        </div>
+        <div class="search-filter">
+            <input type="text" id="search" placeholder="Search by name, email or status">
+        </div>
+        <div class="lead-list">
+            <h2>Lead List</h2>
+            <table id="leadTable">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Phone</th>
+                        <th>Status</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="leadContainer"></tbody>
+            </table>
+            <div id="pagination"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
