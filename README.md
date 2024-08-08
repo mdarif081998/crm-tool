@@ -10,6 +10,13 @@ This is a basic CRM tool prototype that allows users to add, view, edit, and man
 - Search and filter leads by name, email, or status.
 - Data is persisted between sessions using a backend server.
 
+## Technologies
+- HTML
+- CSS
+- Javascript
+- NodeJs
+- Express
+
 ## Setup Instructions
 
 1. **Clone the Repository:**
